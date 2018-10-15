@@ -1,6 +1,6 @@
 See [https://github.com/bndtools/bndtools/issues/1943](https://github.com/bndtools/bndtools/issues/1943)
 
-## WHat is this?
+## What is this?
 A test project to showcase an error when running JUnit based integration tests in an OSGi container with bnd+Eclipse.
 
 ## How to use
