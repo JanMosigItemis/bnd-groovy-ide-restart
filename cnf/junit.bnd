@@ -4,5 +4,3 @@ bundles.junit: \
     org.mockito.mockito-core;version="[1.10,2)",\
     org.objenesis;version="[2.1,3)",\
     biz.aQute.tester;version="[4.0,4.1)",\
-    groovy-all;version=2.4.15,\
-    org.assertj.core;version="[3.6,3.7)",\
